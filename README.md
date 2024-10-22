@@ -1,4 +1,4 @@
-This is a manual archipelago implementation for art of rally.
+This is a manual archipelago implementation for Super Smash Bros.(N64).
 
 Instructions:
 - Drop the .apworld into your archipelago/lib/worlds folder
@@ -8,5 +8,5 @@ Instructions:
 
 Optional:
 - You can use the autotracking Poptracker pack for a nice visual representation of what is available to you while playing
-- Drop the artofrally_tracker_x.x.x.zip into poptracker/packs folder
+- Drop the smash64_tracker_x.x.x.zip into poptracker/packs folder
 - Poptracker can be found here: https://poptracker.github.io
